@@ -18,4 +18,4 @@ O desafio consiste em implementar o componente mostrado abaixo
 - Run `flutter pub get` para instalar as dependências
 - Run `flutter run` para rodar
 
-![app-screenshot](./assets/screenshot.jpg)
+<img src="https://i.imgur.com/52AX0hh.jpg" alt="demo-mobile" height="425">
